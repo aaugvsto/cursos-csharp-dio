@@ -1,0 +1,15 @@
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\bin\Debug\net6.0\ExemploSOLID.exe
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\bin\Debug\net6.0\ExemploSOLID.deps.json
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\bin\Debug\net6.0\ExemploSOLID.runtimeconfig.json
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\bin\Debug\net6.0\ExemploSOLID.dll
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\bin\Debug\net6.0\ExemploSOLID.pdb
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.csproj.AssemblyReference.cache
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.AssemblyInfoInputs.cache
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.AssemblyInfo.cs
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.csproj.CoreCompileInputs.cache
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.dll
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\refint\ExemploSOLID.dll
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.pdb
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ExemploSOLID.genruntimeconfig.cache
+C:\www\Projetos\C#\4 - SOLID\ExemploSOLID\obj\Debug\net6.0\ref\ExemploSOLID.dll
